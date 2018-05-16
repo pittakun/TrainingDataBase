@@ -1,0 +1,13 @@
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.csprojResolveAssemblyReference.cache
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.Form1.resources
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.Properties.Resources.resources
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.csproj.GenerateResource.Cache
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.csproj.CoreCompileInputs.cache
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\TesteBack.exe.config
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\TesteBack.exe
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\TesteBack.pdb
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\MySql.Data.dll
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\Google.Protobuf.dll
+C:\Users\pitta\source\repos\TesteBack\TesteBack\bin\Debug\MySql.Data.xml
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.exe
+C:\Users\pitta\source\repos\TesteBack\TesteBack\obj\Debug\TesteBack.pdb
